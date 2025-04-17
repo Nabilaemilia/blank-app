@@ -1,6 +1,7 @@
 import streamlit as st
 
-st.HEADER("KALKULATOR")
+st.header
+("KALKULATOR")
 st.write(
     "APLIKASI INI UNTUK MEENGHITUNG ARITMATIKA SEDERHANA"
 )
